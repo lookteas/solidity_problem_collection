@@ -1,2 +1,19 @@
-# solidity_problem_collection
-solidity编程相关问题集合
+## solidity编程相关问题集合
+
+
+
+
+
+
+
+1、[Solidity变量详解：状态变量与局部](./solidity_base\Solidity变量详解：状态变量与局部变量.md)
+
+2、变量gas费相关问题
+
+3、数据类型相关的问题
+
+4、映射相关的问题
+
+5、函数相关的问题
+
+6、访问范围相关的问题
