@@ -6,7 +6,7 @@
 
 
 
-1、[Solidity变量详解：状态变量与局部](./solidity_base\Solidity变量详解：状态变量与局部变量.md)
+1、[Solidity变量详解：状态变量与局部](./solidity_base/Solidity变量详解：状态变量与局部变量.md)
 
 2、变量gas费相关问题
 
